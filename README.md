@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AaronTech112 A fullStacked Proggrammer Always ready to learn and work
+- 👋 Hi, I’m @AaronTech112 A fullStacked Programmer Always ready to learn and work
 - 👀 I’m Code, solve problems and develop with Python,web: django,HTML,CSS,javascript,react,node . mobile app dev with Kivy MD, react native
 - 🌱 I’m currently lokking into the full possibilites of block chain technology
 - 💞️ I’m looking to collaborate on any project you got based on any language due to my problem solving skills
