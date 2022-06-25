@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AaronTech112
-- 👀 I’m interested in django,javascript,react,node,react native
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on any project you got
+- 👋 Hi, I’m @AaronTech112 A fullStacked Proggrammer Always ready to learn and work
+- 👀 I’m Code, solve problems and develop with Python,web: django,HTML,CSS,javascript,react,node . mobile app dev with Kivy MD, react native
+- 🌱 I’m currently lokking into the full possibilites of block chain technology
+- 💞️ I’m looking to collaborate on any project you got based on any language due to my problem solving skills
 - 📫 How to reach me +2348135385518....whatsapp me +2347061662905
 
 <!---
